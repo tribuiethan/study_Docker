@@ -10,6 +10,6 @@
 
 [Năm 4 Đại học] [2020] Docker, Docker Compose, Docker Swarm, Traefik
 
-[2021] 
+[2021] Docker registry, Netflix dispatch
 
 [2022] Tổng kết.
